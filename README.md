@@ -27,7 +27,7 @@ This project highlights my ability to manage an end-to-end machine learning work
 ---
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/your-linkedin-profile/)
+*   **LinkedIn:** [www.linkedin.com/in/pranav-giridharan-54556731a](www.linkedin.com/in/pranav-giridharan-54556731a)
 *   **Email:** your.email@example.com
 
 <!--
