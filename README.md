@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]👋
+# Hi, I'm Pranav Giridharan👋
 
 I'm an aspiring Data Scientist passionate about leveraging data to solve real-world problems. I enjoy the process of uncovering insights from complex datasets and building machine learning models that can make a difference.
 
