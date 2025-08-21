@@ -28,7 +28,7 @@ This project highlights my ability to manage an end-to-end machine learning work
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/your-linkedin-profile/)
+*   **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile/](www.linkedin.com/in/pranav-giridharan-54556731a)
 *   **Email:** pranavgiridharan123@gmail.com
 <!--
 **Pranav-261/Pranav-261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
